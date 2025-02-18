@@ -1,11 +1,11 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from groq import Groq
 from pdfminer.high_level import extract_text
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
 
 # Initialize Groq client

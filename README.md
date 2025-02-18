@@ -1,0 +1,1 @@
+This tool will give you suggestions on your Professional Summary, Work Experience, Projects, Skills and Certifications section of your Resume after analysing it baseed on a given job description. So you can see what changes you exactly need to make for a specific job description. This tool will save a lot of your time.
